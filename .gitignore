@@ -1,0 +1,4 @@
+# vendored yolov5 clone with its .pt weights (14 MB+; reloadable upstream)
+yolov5-USB/
+__pycache__/
+*.pyc
